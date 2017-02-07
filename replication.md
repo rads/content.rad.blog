@@ -44,14 +44,13 @@ See also: [CRDT](crdt), [Gossip Protocols](gossip-protocols).
 
 ## Implementations
 
-There's a separate page for [Scuttlebutt](scuttlebutt) implementations.
+There's a separate page for [CRDT](crdt#implementations) and [Scuttlebutt](scuttlebutt#implementations) implementations.
 
 - C
     - [MySQL](https://dev.mysql.com/doc/refman/5.7/en/replication.html)
     - [PostgreSQL](https://www.postgresql.org/docs/current/static/high-availability.html)
 - Clojure
     - [Datomic](http://www.datomic.com/)
-    - [replikativ](http://replikativ.io/)
 - Cloud
     - [Amazon Aurora](https://aws.amazon.com/rds/aurora/)
     - [Amazon DynamoDB](https://aws.amazon.com/dynamodb/)
