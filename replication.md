@@ -34,7 +34,7 @@ Replication is an essential part of peer-to-peer networking. In an unreliable ne
 
 ## Related Terms
 
-Atomic Broadcast, Content Addressing, Content Hashing, Discovery, Distributed Systems, Encryption, Eventual Consistency, Fault-Tolerance, Gossip Protocols, High Availability, Merkle DAG, Membership, Messaging, Networking, Network Hole Punching, Partial Order, Peer-to-Peer, State Machines, TCP, Total Order, UDP
+Atomic Broadcast, Content Addressing, Content Hashing, Discovery, Distributed Systems, Encryption, Eventual Consistency, Fault-Tolerance, Gossip Protocols, High Availability, Merkle DAG, Membership, Messaging, Networking, Network Hole Punching, Protocol, Partial Order, Peer-to-Peer, State Machines, TCP, Total Order, UDP
 
 ## References
 
