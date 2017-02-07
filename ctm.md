@@ -2,7 +2,7 @@
 title: CTM
 ---
 
-An abbreviation for [Concepts, Techniques, and Models of Computer Programming][amazon].
+An abbreviation and acronym for [**Concepts, Techniques, and Models of Computer Programming**][amazon].
 
 See ["The Principal Programming Paradigms"][visual] for a visual overview.
 

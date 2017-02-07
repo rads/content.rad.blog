@@ -2,7 +2,7 @@
 title: CRDT
 ---
 
-An acronym for Conflict-free Replicated Data Types.
+An acronym for **Conflict-free Replicated Data Type**.
 
 ## Getting Started
 
