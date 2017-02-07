@@ -10,6 +10,7 @@ title: Rad
 - [Bliki](bliki)
 - [Books](books)
 - <em>In Progress:</em> [Replication](replication)
+- [rad.blog](rad.blog)
 
 ## See Also
 
