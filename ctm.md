@@ -6,5 +6,5 @@ An abbreviation for [Concepts, Techniques, and Models of Computer Programming][a
 
 See ["The Principal Programming Paradigms"][visual] for a visual overview.
 
-[amazon]: https://www.amazon.com/Concepts-Techniques-Models-Computer-Programming/dp/0262220695
+[amazon]: https://amzn.to/2l7YtLm
 [visual]: https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.pdf
