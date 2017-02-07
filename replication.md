@@ -44,7 +44,7 @@ See also: [CRDT](crdt), [Gossip Protocols](gossip-protocols).
 
 ## Implementations
 
-There's a separate page for [CRDT](crdt#implementations) and [Scuttlebutt](scuttlebutt#implementations) implementations.
+There's are separate pages for [CRDT](crdt#implementations) and [Scuttlebutt](scuttlebutt#implementations) implementations.
 
 - C
     - [MySQL](https://dev.mysql.com/doc/refman/5.7/en/replication.html)
