@@ -2,6 +2,10 @@
 title: Gossip Protocols
 ---
 
+## References
+
+- ["Gossip protocol" on Wikipedia](https://en.wikipedia.org/wiki/Gossip_protocol)
+    - A good starting point.
 - [*Epidemic Algorithms for Replicated Database Maintenance*](https://pdfs.semanticscholar.org/49ed/15db181c74c7067ec01800fb5392411c868c.pdf) (1987)
     - The pioneering paper of gossip protocols (but out-of-date)
 - [*Lightweight Probabalistic Broadcast*](http://perso.telecom-paristech.fr/~kuznetso/pubs/Lpbcast_tocs.pdf) (2003)
