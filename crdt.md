@@ -22,4 +22,4 @@ This talk by Marc Shapiro is an excellent introduction to what CRDTs are and how
 ## Implementations
 
 - Clojure
-    - [replikativ](http://replikativ.io/)
+    - [replikativ](http://replikativ.io/) ([Bliki](replikativ))
