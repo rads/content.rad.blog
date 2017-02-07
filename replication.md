@@ -28,11 +28,11 @@ If you've got something important you're better off making a copy sooner than la
 
 Many families make a copy of the master key for each person in the house. If Mom is at work, her kids can still get in the house without her when they return from school. That's because their slabs of metal all share the same shape. The idea of sharing a shape rather than a concrete representation shows up *everywhere* in programming.
 
-Replication is an essential part of peer-to-peer networking. In an unreliable network it's impossible for one peer to always have an up-to-date copy of the other peers. Instead the peers must talk to one another to disseminate information across the network. This is called a [gossip protocol](gossip-protocols).
+Replication is an essential part of [P2P](p2p) networking. In an unreliable network it's impossible for one peer to always have an up-to-date copy of the other peers. Instead the peers must talk to one another to disseminate information across the network. This is called a [gossip protocol](gossip-protocols).
 
 ## Related Terms
 
-Atomic Broadcast, Content Addressing, Content Hashing, Discovery, [CRDT](crdt), [Distributed Systems](distributed-systems), Encryption, Eventual Consistency, Fault-Tolerance, [Gossip Protocols](gossip-protocols), High Availability, Merkle DAG, Membership, Messaging, Networking, Network Hole Punching, Protocol, Partial Order, Peer-to-Peer, State Machines, TCP, Total Order, UDP
+Atomic Broadcast, Content Addressing, Content Hashing, Discovery, [CRDT](crdt), [Distributed Systems](distributed-systems), Encryption, Eventual Consistency, Fault-Tolerance, [Gossip Protocols](gossip-protocols), High Availability, Merkle DAG, Membership, Messaging, Networking, Network Hole Punching, Protocol, Partial Order, [P2P](p2p), State Machines, TCP, Total Order, UDP
 
 ## References
 
