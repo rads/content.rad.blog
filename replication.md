@@ -67,7 +67,6 @@ See also: [Gossip Protocols](gossip-protocols).
     - [Kafka](https://kafka.apache.org/documentation/#replication)
 - JavaScript
     - [CouchDB](https://couchdb.apache.org/)
-    - [hyperlog](https://github.com/mafintosh/hyperlog) ([Bliki](hyperlog))
     - [PouchDB](https://pouchdb.com/)
-    - [Scuttlebot](https://github.com/ssbc/scuttlebot) ([Bliki](scuttlebot))
-    - [simple-scuttle](https://awinterman.github.io/simple-scuttle/)
+
+There's separate page for [Scuttlebutt](scuttlebutt) implementations.
