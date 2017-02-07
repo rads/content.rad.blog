@@ -32,7 +32,7 @@ Replication is an essential part of peer-to-peer networking. In an unreliable ne
 
 ## Related Terms
 
-Atomic Broadcast, Content Addressing, Content Hashing, Discovery, Distributed Systems, Encryption, Eventual Consistency, Fault-Tolerance, [Gossip Protocols](gossip-protocols), High Availability, Merkle DAG, Membership, Messaging, Networking, Network Hole Punching, Protocol, Partial Order, Peer-to-Peer, State Machines, TCP, Total Order, UDP
+Atomic Broadcast, Content Addressing, Content Hashing, Discovery, [Distributed Systems](distributed-systems), Encryption, Eventual Consistency, Fault-Tolerance, [Gossip Protocols](gossip-protocols), High Availability, Merkle DAG, Membership, Messaging, Networking, Network Hole Punching, Protocol, Partial Order, Peer-to-Peer, State Machines, TCP, Total Order, UDP
 
 ## References
 
@@ -40,6 +40,7 @@ Atomic Broadcast, Content Addressing, Content Hashing, Discovery, Distributed Sy
 - [*A comprehensive study of Convergent and Commutative Replicated Data Types*](http://hal.upmc.fr/inria-00555588/document) (2011)
 - [*Reliable, Consistent, and Efficient Data Sync for Mobile Apps*](https://www.usenix.org/system/files/conference/fast15/fast15-paper-go.pdf) (2015)
 - [*Simba: Tunable End-to-End Data Consistency for Mobile Apps*](https://web.eecs.umich.edu/~harshavm/papers/eurosys15.pdf) (2015)
+- [*Decoupling conflicts for configurable resolution in an open replication system*](https://arxiv.org/pdf/1508.05545.pdf) (2016)
 
 See also: [Gossip Protocols](gossip-protocols).
 
