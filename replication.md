@@ -44,6 +44,8 @@ See also: [CRDT](crdt), [Gossip Protocols](gossip-protocols).
 
 ## Implementations
 
+There's a separate page for [Scuttlebutt](scuttlebutt) implementations.
+
 - C
     - [MySQL](https://dev.mysql.com/doc/refman/5.7/en/replication.html)
     - [PostgreSQL](https://www.postgresql.org/docs/current/static/high-availability.html)
@@ -66,5 +68,3 @@ See also: [CRDT](crdt), [Gossip Protocols](gossip-protocols).
 - JavaScript
     - [CouchDB](https://couchdb.apache.org/)
     - [PouchDB](https://pouchdb.com/)
-
-There's separate page for [Scuttlebutt](scuttlebutt) implementations.
