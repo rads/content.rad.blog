@@ -9,8 +9,8 @@ title: Rad
 - [Backups](backups)
 - [Bliki](bliki)
 - [Books](books)
-- <em>In Progress:</em> [Replication](replication)
 - [rad.blog](rad.blog)
+- *In Progress:* [Replication](replication)
 
 ## See Also
 
