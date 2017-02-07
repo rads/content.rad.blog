@@ -32,7 +32,7 @@ Replication is an essential part of [P2P](p2p) networking. In an unreliable netw
 
 ## Related Terms
 
-Atomic Broadcast, Content Addressing, Content Hashing, Discovery, [CRDT](crdt), [Distributed Systems](distributed-systems), Encryption, Eventual Consistency, Fault-Tolerance, [Gossip Protocols](gossip-protocols), High Availability, Merkle DAG, Membership, Messaging, Networking, Network Hole Punching, Protocol, Partial Order, [P2P](p2p), State Machines, TCP, Total Order, UDP
+Atomic Broadcast, [CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem), Content Addressing, Content Hashing, Discovery, [CRDT](crdt), [Distributed Systems](distributed-systems), Encryption, Eventual Consistency, Fault-Tolerance, [Gossip Protocols](gossip-protocols), High Availability, Merkle DAG, Membership, Messaging, Networking, Network Hole Punching, Protocol, Partial Order, [P2P](p2p), State Machines, TCP, Total Order, UDP
 
 ## References
 
