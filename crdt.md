@@ -13,6 +13,7 @@ This talk by Marc Shapiro is an excellent introduction to what CRDTs are and how
 ## References
 
 - [*A comprehensive study of Convergent and Commutative Replicated Data Types*](http://hal.upmc.fr/inria-00555588/document) (2011)
+- [*Decoupling conflicts for configurable resolution in an open replication system*](https://arxiv.org/pdf/1508.05545.pdf) (2016)
 
 ## See Also
 

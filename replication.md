@@ -38,7 +38,6 @@ Atomic Broadcast, Content Addressing, Content Hashing, Discovery, [CRDT](crdt), 
 
 - [*Reliable, Consistent, and Efficient Data Sync for Mobile Apps*](https://www.usenix.org/system/files/conference/fast15/fast15-paper-go.pdf) (2015)
 - [*Simba: Tunable End-to-End Data Consistency for Mobile Apps*](https://web.eecs.umich.edu/~harshavm/papers/eurosys15.pdf) (2015)
-- [*Decoupling conflicts for configurable resolution in an open replication system*](https://arxiv.org/pdf/1508.05545.pdf) (2016)
 
 See also: [CRDT](crdt), [Gossip Protocols](gossip-protocols).
 
