@@ -12,6 +12,6 @@ title: Distributed Systems
 
 ## References
 
-- [*Introduction to Reliable and Secure Distributed Programming*][rsdp]
+- [*Introduction to Reliable and Secure Distributed Programming*][rsdp] (2011)
 
 [rsdp]: http://amzn.to/2mdwir6
